@@ -1,0 +1,7 @@
+c:\Users\lucas.vianna\source\repos\Api3\Infra\bin\Debug\netcoreapp2.0\Domain.dll
+c:\Users\lucas.vianna\source\repos\Api3\Infra\obj\Debug\netcoreapp2.0\Infra.csprojAssemblyReference.cache
+c:\Users\lucas.vianna\source\repos\Api3\Infra\obj\Debug\netcoreapp2.0\Infra.csproj.CoreCompileInputs.cache
+c:\Users\lucas.vianna\source\repos\Api3\Infra\obj\Debug\netcoreapp2.0\Infra.AssemblyInfoInputs.cache
+c:\Users\lucas.vianna\source\repos\Api3\Infra\obj\Debug\netcoreapp2.0\Infra.AssemblyInfo.cs
+c:\Users\lucas.vianna\source\repos\Api3\Infra\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\lucas.vianna\source\repos\Api3\Infra\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml

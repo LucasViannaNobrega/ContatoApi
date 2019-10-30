@@ -1,0 +1,8 @@
+c:\users\lucas.vianna\source\repos\Api3\Api3\bin\Debug\netcoreapp2.0\Api3.deps.json
+c:\users\lucas.vianna\source\repos\Api3\Api3\bin\Debug\netcoreapp2.0\Api3.runtimeconfig.json
+c:\users\lucas.vianna\source\repos\Api3\Api3\bin\Debug\netcoreapp2.0\Api3.runtimeconfig.dev.json
+c:\users\lucas.vianna\source\repos\Api3\Api3\bin\Debug\netcoreapp2.0\Api3.dll
+c:\users\lucas.vianna\source\repos\Api3\Api3\obj\Debug\netcoreapp2.0\Api3.csprojAssemblyReference.cache
+c:\users\lucas.vianna\source\repos\Api3\Api3\obj\Debug\netcoreapp2.0\Api3.csproj.CoreCompileInputs.cache
+c:\users\lucas.vianna\source\repos\Api3\Api3\obj\Debug\netcoreapp2.0\Api3.AssemblyInfoInputs.cache
+c:\users\lucas.vianna\source\repos\Api3\Api3\obj\Debug\netcoreapp2.0\Api3.AssemblyInfo.cs

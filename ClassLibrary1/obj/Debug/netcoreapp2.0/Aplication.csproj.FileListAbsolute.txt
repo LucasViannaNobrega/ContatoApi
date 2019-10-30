@@ -1,0 +1,6 @@
+c:\Users\lucas.vianna\source\repos\Api3\ClassLibrary1\bin\Debug\netcoreapp2.0\Aplication.deps.json
+c:\Users\lucas.vianna\source\repos\Api3\ClassLibrary1\bin\Debug\netcoreapp2.0\Aplication.dll
+c:\Users\lucas.vianna\source\repos\Api3\ClassLibrary1\obj\Debug\netcoreapp2.0\Aplication.csprojAssemblyReference.cache
+c:\Users\lucas.vianna\source\repos\Api3\ClassLibrary1\obj\Debug\netcoreapp2.0\Aplication.csproj.CoreCompileInputs.cache
+c:\Users\lucas.vianna\source\repos\Api3\ClassLibrary1\obj\Debug\netcoreapp2.0\Aplication.AssemblyInfoInputs.cache
+c:\Users\lucas.vianna\source\repos\Api3\ClassLibrary1\obj\Debug\netcoreapp2.0\Aplication.AssemblyInfo.cs
