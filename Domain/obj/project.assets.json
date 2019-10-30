@@ -3379,11 +3379,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\lucas.vianna\\source\\repos\\Api3\\ClassLibrary1\\Aplication.csproj",
+      "projectUniqueName": "C:\\Users\\lucas.vianna\\source\\repos\\Api3\\ClassLibrary1\\Aplication.csproj",
       "projectName": "Aplication",
-      "projectPath": "c:\\Users\\lucas.vianna\\source\\repos\\Api3\\ClassLibrary1\\Aplication.csproj",
+      "projectPath": "C:\\Users\\lucas.vianna\\source\\repos\\Api3\\ClassLibrary1\\Aplication.csproj",
       "packagesPath": "C:\\Users\\lucas.vianna\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\lucas.vianna\\source\\repos\\Api3\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\Users\\lucas.vianna\\source\\repos\\Api3\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3402,11 +3402,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\Users\\lucas.vianna\\source\\repos\\Api3\\ClassLibrary2\\Domain.csproj": {
-              "projectPath": "c:\\Users\\lucas.vianna\\source\\repos\\Api3\\ClassLibrary2\\Domain.csproj"
+            "C:\\Users\\lucas.vianna\\source\\repos\\Api3\\ClassLibrary2\\Domain.csproj": {
+              "projectPath": "C:\\Users\\lucas.vianna\\source\\repos\\Api3\\ClassLibrary2\\Domain.csproj"
             },
-            "c:\\Users\\lucas.vianna\\source\\repos\\Api3\\Infra\\Infra.csproj": {
-              "projectPath": "c:\\Users\\lucas.vianna\\source\\repos\\Api3\\Infra\\Infra.csproj"
+            "C:\\Users\\lucas.vianna\\source\\repos\\Api3\\Infra\\Infra.csproj": {
+              "projectPath": "C:\\Users\\lucas.vianna\\source\\repos\\Api3\\Infra\\Infra.csproj"
             }
           }
         }
